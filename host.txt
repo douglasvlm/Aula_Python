@@ -1,4 +1,4 @@
 www.google.com.br
 8.8.8.8
-www.uol.com.br
+www.pudim.com.br
 127.0.0.1
